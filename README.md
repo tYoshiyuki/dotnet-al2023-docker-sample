@@ -1,5 +1,5 @@
 # dotnet-al2023-docker-sample
-Amazon Linux 2023 の Dockerイメージをビルドするサンプル
+Amazon Linux 2023 で ASP.NET Core・Nginx の両プロセスを起動するDockerイメージをビルドするサンプル
 
 ## Feature
 - .NET8
